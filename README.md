@@ -1,2 +1,2 @@
 # Rstudio-To-Visualize-BioData
-Visualization Data
+Visualization BioData
