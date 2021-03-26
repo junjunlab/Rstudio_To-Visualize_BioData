@@ -1,0 +1,20 @@
+Package: ZhoulabVoCalno
+Title: To visualize diff reults more easily
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "jun",
+           family = "jun",
+           role = c("aut", "cre"),
+           email = "1138976957@qq.com",
+           comment = c(ORCID = "zhoulab"))
+Description: We want to visualize our diff results after the differential calculation ,this is a great package to plot our results.I am very glad you to use this package ,you can use this package plot a beautiful volcano figure and you can put it in your articles.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    ggplot2,
+    ggprism,
+    ggrepel,
+    base
