@@ -1,4 +1,4 @@
 Installation introduction: 
 
 library(devtools)
-install_github('Rstudio-To-Visualize-BioData/ZhoulabVoCalno')
+install_github('zhangjun-123/Rstudio_To-Visualize_BioData/ZhoulabVoCalno')
